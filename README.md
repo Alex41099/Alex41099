@@ -5,6 +5,7 @@ My stack:
 - 🌐 TypeScript, JavaScript
 - 🛠️ Vite, Webpack
 - 🖍 SCSS/Sass, tailwind, CSS Modules
+
 Actively broadening my expertise in:
 
 - Advanced Redux concepts and patterns.
