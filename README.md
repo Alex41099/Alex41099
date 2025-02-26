@@ -1,11 +1,11 @@
 # Hi there 👋 I'm Kyrkymbay Alikhan, a Frontend Developer.
-## My stack:
+My stack:
 
 - 🚀 React, Redux Toolkit
 - 🌐 TypeScript, JavaScript
 - 🛠️ Vite, Webpack
 - 🖍 SCSS/Sass, tailwind, CSS Modules
-## Actively broadening my expertise in:
+Actively broadening my expertise in:
 
 - Advanced Redux concepts and patterns.
 - Performance optimization techniques for web applications.
