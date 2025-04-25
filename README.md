@@ -1,4 +1,3 @@
-# Hi there 👋 I'm Kyrkymbay Alikhan, a Frontend Developer.
 My stack:
 
 - 🚀 React, Redux Toolkit
